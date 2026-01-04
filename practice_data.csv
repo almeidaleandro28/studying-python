@@ -1,0 +1,106 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Price,Quantity
+1000,05/02/2023,  Alice brown,???,$150.75,1
+1001,,JANE SMITH ,electronics,not_set,14
+1002,, Jane Smith,CLOTHING,$100.00,9
+1003,,JANE SMITH ,  Clothing,not_set,5
+1004,,Alice Brown,HOME,not_set,2
+1005,05/02/2023, Jane Smith,Electronics,,1
+1006,,JANE SMITH ,electronics,,13
+1007,05/02/2023,John DOE,CLOTHING,,5
+1008,2023.05.03,john doe,electronics,200.50,5
+1009,2023-05-01,john doe,  Clothing,$100.00,-2
+1010,,John DOE,electronics,,2
+1011,05/02/2023,JANE SMITH ,???,not_set,-3
+1012,2023-05-01,,???,not_set,-4
+1013,05/02/2023,Alice Brown,Home ,not_set,6
+1014,2023-05-01,John DOE,electronics,,0
+1015,,John DOE,electronics,$100.00,-4
+1016,2023.05.03,john doe,Home ,200.50,-5
+1017,2023-05-04,John DOE,HOME,200.50,6
+1018,05/02/2023,Alice Brown,CLOTHING,$100.00,6
+1019,2023-05-01,John DOE,Electronics,300,11
+1020,2023-05-01,  Alice brown,Home ,$100.00,4
+1021,05/02/2023,JANE SMITH ,electronics,200.50,10
+1022,2023.05.03,john doe,Electronics,300,9
+1023,2023-05-01,,???,$150.75,9
+1024,2023-05-04,john doe,  Clothing,$100.00,13
+1025,2023-05-01,  Alice brown,  Clothing,200.50,6
+1026,2023-05-01, Jane Smith,electronics,$100.00,14
+1027,05/02/2023,  Alice brown,  Clothing,$150.75,-3
+1028,2023.05.03,,CLOTHING,$150.75,-1
+1029,2023-05-01,john doe,Electronics,200.50,13
+1030,05/02/2023,,CLOTHING,not_set,1
+1031,2023.05.03,john doe,???,not_set,3
+1032,2023-05-04,john doe,???,200.50,1
+1033,2023-05-01,JANE SMITH ,Home ,$150.75,12
+1034,05/02/2023,john doe,Electronics,,-2
+1035,2023-05-01,,CLOTHING,300,8
+1036,2023-05-04,  Alice brown,???,300,12
+1037,2023-05-04,John DOE,???,$150.75,3
+1038,2023.05.03, Jane Smith,  Clothing,200.50,-4
+1039,,JANE SMITH ,electronics,300,14
+1040,05/02/2023,JANE SMITH ,Home ,$100.00,9
+1041,,Alice Brown,CLOTHING,,1
+1042,,,Home ,300,6
+1043,2023-05-01,JANE SMITH ,Home ,,2
+1044,,JANE SMITH ,electronics,,9
+1045,2023-05-04,  Alice brown,HOME,not_set,-3
+1046,,Alice Brown,Electronics,$100.00,8
+1047,05/02/2023,JANE SMITH ,???,300,11
+1048,2023-05-04,,CLOTHING,$100.00,-2
+1049,2023-05-04,john doe,electronics,$150.75,12
+1050,05/02/2023,John DOE,CLOTHING,not_set,2
+1051,2023-05-04, Jane Smith,HOME,200.50,-2
+1052,,Alice Brown,???,$150.75,-4
+1053,, Jane Smith,  Clothing,$100.00,0
+1054,2023-05-01,john doe,Home ,300,4
+1055,2023.05.03,JANE SMITH ,CLOTHING,$150.75,-2
+1056,2023-05-01,john doe,HOME,$150.75,12
+1057,2023.05.03,John DOE,  Clothing,$100.00,6
+1058,,  Alice brown,???,not_set,-4
+1059,2023-05-04,john doe,  Clothing,not_set,4
+1060,2023-05-01,  Alice brown,HOME,$100.00,-2
+1061,2023-05-04,Alice Brown,CLOTHING,$100.00,8
+1062,2023-05-04,  Alice brown,HOME,not_set,10
+1063,2023-05-04,john doe,Electronics,$100.00,9
+1064,2023.05.03,,???,200.50,2
+1065,2023-05-04,JANE SMITH ,  Clothing,,8
+1066,,  Alice brown,CLOTHING,200.50,2
+1067,05/02/2023,Alice Brown,Electronics,not_set,10
+1068,2023-05-01,john doe,electronics,,7
+1069,,Alice Brown,HOME,,12
+1070,2023-05-04,Alice Brown,???,300,9
+1071,2023-05-04,JANE SMITH ,CLOTHING,300,7
+1072,2023-05-04,  Alice brown,Electronics,300,3
+1073,2023.05.03, Jane Smith,HOME,200.50,9
+1074,2023-05-01,john doe,???,not_set,7
+1075,05/02/2023,  Alice brown,Home ,300,-5
+1076,2023.05.03,,CLOTHING,,1
+1077,,Alice Brown,  Clothing,300,3
+1078,,,  Clothing,$100.00,-5
+1079,2023-05-04,,  Clothing,$100.00,6
+1080,2023.05.03,Alice Brown,CLOTHING,$100.00,2
+1081,,JANE SMITH ,CLOTHING,$150.75,5
+1082,05/02/2023,,  Clothing,$100.00,13
+1083,2023.05.03,John DOE,  Clothing,$150.75,11
+1084,05/02/2023,,Home ,$100.00,2
+1085,05/02/2023,JANE SMITH ,HOME,$150.75,-3
+1086,2023.05.03,  Alice brown,HOME,not_set,-3
+1087,2023-05-04,,HOME,$100.00,-5
+1088,,Alice Brown,HOME,$100.00,-1
+1089,05/02/2023,,  Clothing,not_set,4
+1090,2023-05-04,John DOE,  Clothing,300,1
+1091,,john doe,  Clothing,300,3
+1092,2023-05-04,JANE SMITH ,???,200.50,1
+1093,2023.05.03, Jane Smith,???,,3
+1094,2023.05.03,  Alice brown,Home ,300,2
+1095,05/02/2023,Alice Brown,???,200.50,6
+1096,05/02/2023,Alice Brown,HOME,,-4
+1097,,JANE SMITH ,  Clothing,$100.00,-5
+1098,2023-05-04,JANE SMITH ,HOME,200.50,10
+1099,2023-05-01,JANE SMITH ,Electronics,not_set,-1
+1088,,Alice Brown,HOME,$100.00,-1
+1093,2023.05.03, Jane Smith,???,,3
+1092,2023-05-04,JANE SMITH ,???,200.50,1
+1054,2023-05-01,john doe,Home ,300,4
+1015,,John DOE,electronics,$100.00,-4
